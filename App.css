@@ -1,0 +1,29 @@
+.gallery-container {
+  text-align: center;
+  margin-top: 43px;
+}
+
+.large {
+  width: 600px;
+  height: 400px;
+}
+
+.small {
+  width: 500px;
+  height: 300px;
+}
+
+.button-container {
+  margin-top: 20px;
+}
+
+.button {
+  background-color: rgb(255, 0, 0);
+  border: none;
+  color: black;
+  font-size: 24px;
+  height: 80px;
+  width: 120px;
+  margin: 10px;
+  cursor: pointer;
+}
